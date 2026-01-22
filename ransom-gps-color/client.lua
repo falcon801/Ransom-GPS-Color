@@ -1,3 +1,6 @@
+-- © 2026 Ransom / Falcon801
+-- Ransom-GPS-Color | All Rights Reserved
+
 local C = Config
 if C.Enabled == false then return end
 
@@ -28,3 +31,4 @@ AddEventHandler('onClientResourceStart', function(res)
         CreateThread(function() Wait(0); apply() end)
     end
 end)
+
