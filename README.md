@@ -1,4 +1,4 @@
-# Ransom-GPS-Color
+# rsm-gps-color
 
 Custom GPS color system for FiveM.
 
