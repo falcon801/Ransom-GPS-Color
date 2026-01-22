@@ -1,3 +1,5 @@
+-- © 2026 Ransom / Falcon801
+-- Ransom-GPS-Color | All Rights Reserved
 Config = {}
 
 
@@ -14,3 +16,4 @@ Config.ReapplyInterval = 10000
 
 
 Config.InitialBursts = { 0, 500, 2000 }
+
